@@ -1,0 +1,56 @@
+body{
+	background-color: white;
+	color: #fff;
+	font-size: 10px;
+	font-family: 'Oxygen',sans-serif;
+}
+#header-nav{
+	background-color:gray ;
+}
+.navbar-brand{
+	padding-top: 25px;
+}
+.navbar-brand h1{
+	font-family: serif;
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: .75;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	padding-top: 25px;
+}
+h2{
+	text-align: center;
+	padding-top: 25px;
+	h
+}
+.chicken,.rice,.noodles{
+	border: 1px solid black;
+	margin-bottom: 25px;
+	width: -250px;
+	height: 300px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: : 20px;
+	text-align: center;
+	background-color: gray;
+
+}
+.section1{
+	background-color: yellow;
+	border: 1px solid black;
+}
+.section2{
+	background-color: green;
+	border: 1px solid black;
+}
+.section3{
+	background-color: red;
+	border: 1px solid black;
+
+}
